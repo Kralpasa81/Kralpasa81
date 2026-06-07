@@ -32,6 +32,9 @@ My goal is simple: make everyday tasks faster, clearer, and more reliable withou
 ### [jarvis-hermes-core](https://github.com/Kralpasa81/jarvis-hermes-core)
 Personal AI command-center showcase for automation, smart-home workflows, media/document tools, and local knowledge systems.
 
+### [jarvis-dashboard-ui](https://github.com/Kralpasa81/jarvis-dashboard-ui)
+Dark Jarvis/Hermes-style dashboard UI prototype for personal AI automation, smart-home status, and command-center demos.
+
 ### [hermes-agent-ecosystem-watch](https://github.com/Kralpasa81/hermes-agent-ecosystem-watch)
 Curated watch repo for Hermes Agent, MCP, coding agents, and practical AI tooling.
 
